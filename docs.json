@@ -30,8 +30,18 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart",
+              {
+                "group": "Subgroup 1",
+                "pages": [
+                  {
+                    "group": "Subgroup 2",
+                    "pages": [
+                      "index"
+                    ]
+                  },
+                  "quickstart"
+                ]
+              },
               "development"
             ]
           },
