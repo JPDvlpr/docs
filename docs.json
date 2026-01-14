@@ -26,49 +26,12 @@
     "tabs": [
       {
         "tab": "Intro",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              {
-                "group": "Subgroup 1",
-                "pages": [
-                  {
-                    "group": "Subgroup 2",
-                    "pages": [
-                      "index"
-                    ]
-                  },
-                  "quickstart"
-                ]
-              },
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content (:",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
+        "pages": [
+          "intro/untitled-page",
+          "intro/untitled-page-copied-8",
+          "intro/untitled-page-copied-7",
+          "intro/untitled-page-copied-2",
+          "intro/untitled-page-copied-6"
         ]
       },
       {
@@ -92,7 +55,13 @@
         ]
       },
       {
-        "tab": "Theology"
+        "tab": "Theology",
+        "pages": [
+          "intro/untitled-page-copied-5",
+          "intro/untitled-page-copied-4",
+          "intro/untitled-page-copied-3",
+          "intro/untitled-page-copied-1"
+        ]
       },
       {
         "tab": "History"
