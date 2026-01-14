@@ -39,12 +39,29 @@
         "groups": [
           {
             "group": "The Bible",
-            "pages": []
+            "pages": [
+              "bible-study/the-bible/what-is-the-bible",
+              "bible-study/the-bible/canon-of-scripture",
+              "bible-study/the-bible/old-testament-overview",
+              "bible-study/the-bible/new-testament-overview",
+              "bible-study/the-bible/major-bible-translations",
+              "bible-study/the-bible/how-the-bible-was-preserved",
+              "bible-study/the-bible/inspiration-and-inerrancy",
+              "bible-study/the-bible/untitled-page"
+            ]
           },
           {
             "group": "Reading and Interpretation",
             "pages": [
-              "api-reference/introduction"
+              "bible-study/reading-and-interpretation/hermeneutics",
+              "bible-study/reading-and-interpretation/hermeneutics-copied-1",
+              "bible-study/reading-and-interpretation/hermeneutics-copied-2",
+              "bible-study/reading-and-interpretation/hermeneutics-copied-3",
+              "bible-study/reading-and-interpretation/hermeneutics-copied-4",
+              "bible-study/reading-and-interpretation/hermeneutics-copied-5",
+              "bible-study/reading-and-interpretation/hermeneutics-copied-6",
+              "bible-study/reading-and-interpretation/hermeneutics-copied-7",
+              "bible-study/reading-and-interpretation/hermeneutics-copied-8"
             ]
           },
           {
@@ -111,30 +128,19 @@
           {
             "group": "Orthodoxy",
             "pages": [
-              {
-                "group": "Traditions",
-                "pages": []
-              }
+              "branches/orthodoxy/traditions"
             ]
           },
           {
             "group": "Catholicism",
             "pages": [
-              {
-                "group": "Traditions",
-                "pages": [
-                  "traditions/catholicism"
-                ]
-              }
+              "traditions/catholicism"
             ]
           },
           {
             "group": "Protestant",
             "pages": [
-              {
-                "group": "Traditions",
-                "pages": []
-              }
+              "branches/protestant/traditions"
             ]
           }
         ]
