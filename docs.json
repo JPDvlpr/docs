@@ -38,45 +38,118 @@
         "tab": "Bible Study",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "The Bible",
+            "pages": []
+          },
+          {
+            "group": "Reading and Interpretation",
             "pages": [
               "api-reference/introduction"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Old Testament Studies",
             "pages": [
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
             ]
+          },
+          {
+            "group": "New Testament Studies",
+            "pages": []
           }
         ]
       },
       {
         "tab": "Theology",
-        "pages": [
-          "intro/untitled-page-copied-5",
-          "intro/untitled-page-copied-4",
-          "intro/untitled-page-copied-3",
-          "intro/untitled-page-copied-1"
+        "groups": [
+          {
+            "group": "Systematic Theology",
+            "pages": [
+              "intro/untitled-page-copied-5",
+              "intro/untitled-page-copied-4",
+              "intro/untitled-page-copied-3",
+              "intro/untitled-page-copied-1"
+            ]
+          },
+          {
+            "group": "Historical Theology",
+            "pages": []
+          },
+          {
+            "group": "Biblical Theology",
+            "pages": []
+          }
         ]
       },
       {
-        "tab": "History"
+        "tab": "History",
+        "groups": [
+          {
+            "group": "Early Church (1st–4th Centuries)",
+            "pages": []
+          },
+          {
+            "group": "Medieval Church",
+            "pages": []
+          },
+          {
+            "group": "Reformation & Post-Reformation",
+            "pages": []
+          },
+          {
+            "group": "Modern Church History",
+            "pages": []
+          }
+        ]
       },
       {
-        "tab": "Traditions"
+        "tab": "Branches",
+        "groups": [
+          {
+            "group": "Orthodoxy",
+            "pages": [
+              {
+                "group": "Traditions",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Catholicism",
+            "pages": [
+              {
+                "group": "Traditions",
+                "pages": [
+                  "traditions/catholicism"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Protestant",
+            "pages": [
+              {
+                "group": "Traditions",
+                "pages": []
+              }
+            ]
+          }
+        ]
       },
       {
-        "tab": "Denominations"
+        "tab": "Philosophy",
+        "pages": [
+          "philosophy/faith-and-reason"
+        ]
       },
       {
-        "tab": "Philosophy"
-      },
-      {
-        "tab": "Apologetics"
+        "tab": "Apologetics",
+        "pages": [
+          "apologetics/arguments-for-gods-existence"
+        ]
       },
       {
         "tab": "Languages"
