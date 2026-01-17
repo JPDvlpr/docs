@@ -57,11 +57,8 @@
               "bible-study/reading-and-interpretation/hermeneutics-copied-1",
               "bible-study/reading-and-interpretation/hermeneutics-copied-2",
               "bible-study/reading-and-interpretation/hermeneutics-copied-3",
-              "bible-study/reading-and-interpretation/hermeneutics-copied-4",
-              "bible-study/reading-and-interpretation/hermeneutics-copied-5",
               "bible-study/reading-and-interpretation/hermeneutics-copied-6",
-              "bible-study/reading-and-interpretation/hermeneutics-copied-7",
-              "bible-study/reading-and-interpretation/hermeneutics-copied-8"
+              "bible-study/reading-and-interpretation/hermeneutics-copied-7"
             ]
           },
           {
@@ -70,12 +67,23 @@
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "api-reference/endpoint/webhook",
+              "bible-study/old-testament-studies/minor-prophets",
+              "bible-study/old-testament-studies/covenants",
+              "api-reference/endpoint/webhook-copied-1"
             ]
           },
           {
             "group": "New Testament Studies",
-            "pages": []
+            "pages": [
+              "bible-study/new-testament-studies/untitled-page",
+              "bible-study/new-testament-studies/untitled-page-copied-1",
+              "bible-study/new-testament-studies/untitled-page-copied-2",
+              "bible-study/new-testament-studies/untitled-page-copied-3",
+              "bible-study/new-testament-studies/untitled-page-copied-4",
+              "bible-study/new-testament-studies/untitled-page-copied-5",
+              "bible-study/new-testament-studies/untitled-page-copied-6"
+            ]
           }
         ]
       },
@@ -85,19 +93,27 @@
           {
             "group": "Systematic Theology",
             "pages": [
-              "intro/untitled-page-copied-5",
-              "intro/untitled-page-copied-4",
-              "intro/untitled-page-copied-3",
-              "intro/untitled-page-copied-1"
+              "theology/theology-proper",
+              "theology/christology",
+              "theology/pneumatology",
+              "theology/anthropology",
+              "theology/hamartiology",
+              "theology/soteriology",
+              "theology/ecclesiology-church",
+              "theology/eschatology-last-things"
             ]
           },
           {
             "group": "Historical Theology",
-            "pages": []
-          },
-          {
-            "group": "Biblical Theology",
-            "pages": []
+            "pages": [
+              "intro/untitled-page-copied-5",
+              "intro/untitled-page-copied-4",
+              "intro/untitled-page-copied-1",
+              "intro/untitled-page-copied-3",
+              "theology/historical-theology/modern-theology",
+              "theology/historical-theology/councils-and-creeds",
+              "theology/historical-theology/heresies-and-orthodox-responses"
+            ]
           }
         ]
       },
@@ -106,19 +122,33 @@
         "groups": [
           {
             "group": "Early Church (1st–4th Centuries)",
-            "pages": []
+            "pages": [
+              "theology/biblical-theology/old-testament-theology",
+              "theology/biblical-theology/old-testament-theology-copied-1",
+              "theology/biblical-theology/old-testament-theology-copied-2",
+              "theology/biblical-theology/old-testament-theology-copied-3",
+              "theology/biblical-theology/old-testament-theology-copied-4"
+            ]
           },
           {
             "group": "Medieval Church",
-            "pages": []
+            "pages": [
+              "history/medieval-church/monasticism",
+              "history/medieval-church/scholasticism",
+              "history/medieval-church/scholasticism-copied-1",
+              "history/medieval-church/scholasticism-copied-2"
+            ]
           },
           {
-            "group": "Reformation & Post-Reformation",
-            "pages": []
-          },
-          {
-            "group": "Modern Church History",
-            "pages": []
+            "group": "Reformation and Post-Reformation",
+            "pages": [
+              "history/reformation-and-post-reformation/causes-of-the-reformation",
+              "history/reformation-and-post-reformation/contributing-factors",
+              "history/reformation-and-post-reformation/catholic-counter-reformation",
+              "history/reformation-and-post-reformation/untitled-page",
+              "history/reformation-and-post-reformation/political-leaders",
+              "history/reformation-and-post-reformation/untitled-page-1"
+            ]
           }
         ]
       },
@@ -128,7 +158,23 @@
           {
             "group": "Orthodoxy",
             "pages": [
-              "branches/orthodoxy/traditions"
+              {
+                "group": "Oriental Orthodox",
+                "pages": []
+              },
+              "branches/orthodoxy/traditions",
+              "branches/orthodoxy/traditions-copied-1",
+              {
+                "group": "Eastern Orthodox",
+                "pages": [
+                  "branches/orthodoxy/eastern-orthodox/russia",
+                  "branches/orthodoxy/eastern-orthodox/russia-copied-1",
+                  {
+                    "group": "The Church of Constantinople",
+                    "pages": []
+                  }
+                ]
+              }
             ]
           },
           {
@@ -136,6 +182,10 @@
             "pages": [
               "traditions/catholicism"
             ]
+          },
+          {
+            "group": "Assyrian Church of the East",
+            "pages": []
           },
           {
             "group": "Protestant",
